@@ -1,6 +1,6 @@
 # ATIVIDADE PTBPADB 02
 
-Entregas da disciplina de Programação e Administração de Banco de Dados.
+Exercícios práticos da disciplina de Programação e Administração de Banco de Dados.
 
 ---
 
